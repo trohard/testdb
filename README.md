@@ -1,1 +1,2 @@
-# testdb
+# studentschool
+Student School web app
